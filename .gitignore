@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.vs
+lmax-bot-v2/bin
+lmax-bot-v2/obj
